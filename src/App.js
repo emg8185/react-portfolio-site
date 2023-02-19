@@ -1,12 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
 
-const NameText = (props) => {
-  return (
-    <p>Hi, {props.name}!</p>
-  )
-}
-
 function App() {
   return (
     <div className="App">
